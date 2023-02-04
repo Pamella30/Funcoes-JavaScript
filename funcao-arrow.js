@@ -40,4 +40,7 @@ console.log(saudacao(1))
 console.log(saudacao(2))
 console.log(saudacao(3))
 
-//
+// A funcao nao precisa receber um nome o que recebe um nome e a constante  
+// Quando tem apenas um parametro e apenas uma opcao de retorno nao precisa de parenteses e nem chaves
+// Quando tem mais de um parametro colocar dentro de parenteses
+// Quando tem mais de uma opcao de retorno colocar dentro de chaves
